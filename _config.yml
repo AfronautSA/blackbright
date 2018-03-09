@@ -1,0 +1,19 @@
+title: Blackbright
+email: samuelson@blackbright.co.za
+description: Unorthodox blog on world issues. Motivation, Health and Wealth talks; we are here to inform, educate and get you out bed and be something.
+baseurl: "/blackbright"
+url: "www.blackbright.co.za"
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+branches:
+  only:
+    - gh-pages
