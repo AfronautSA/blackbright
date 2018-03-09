@@ -8,3 +8,5 @@ title: Samuelson's Story
 >*—Anita Roddick*
 
 How can a chunky, medium height and with a somewhat great mind play small all his life?
+Its quite simple, I lacked the confidence I now have.
+
