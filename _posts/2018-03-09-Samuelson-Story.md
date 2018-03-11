@@ -13,7 +13,7 @@ Until most recently I had a life without purpose, to put it frankly. A college g
 Like every other youth in South Africa facing a similar situation, I blamed it on everyone else but never looked at myself as the problem. So what changed?
 Here are three significant amendments that could bring about the same changes in your life.
 
-1. READ, READ, READ.
+**1. READ, READ, READ.**
 
 The route of all problems starts with lack of understanding, innovative thinking, and awareness.
 South Africa has a reading crisis. How many of us read a minimum of 10 books a year? How many of those books give actual value to your current life?
