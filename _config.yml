@@ -9,6 +9,8 @@ url: "https://blackbright.netlify.com"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 sass:
   sass_dir: assets/css
