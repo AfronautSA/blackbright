@@ -5,4 +5,15 @@
   {% seo %}
   <link rel="stylesheet" href="{{"/assets/css/main.css" | prepend: site.baseurl }}">
   <script src="{{ "/assets/js/vendor/modernizr.js" | prepend: site.baseurl }}"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115564731-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-115564731-1');
+  </script>
+
 </head>
