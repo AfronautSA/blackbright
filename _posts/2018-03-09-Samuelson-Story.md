@@ -35,7 +35,6 @@ These are some of the great books I have read and have changed my perspective on
 
 So whether you have aspirations of being a millionaire, philosophy guru, there's a book for every lives problem. You just have to pick up one and start making reading a habit.
 
-## 2. Plant(cultivate)
 
 No, I'm not kidding. 
 To know whether you can commit to a goal, or make relationships, businesses grow; a great place is to plant flowers. 
