@@ -6,4 +6,5 @@ title: 4 Apps to make Money Online
 
 > Its thats easy
 
-Do you want to make side cash
+
+![Make Money Online]({{site.baseurl}}/assets/images/samuelson/Money.jpg)
