@@ -32,6 +32,8 @@ These are some of the great books I have read and have changed my perspective on
 ### 2. Plant (cultivate)
 ![flower]({{site.baseurl}}/assets/images/samuelson/cultivate.jpg)
 
+<a href="http://502dfppev1ez2ocilho92fclaf.hop.clickbank.net/" target="_top">Click Here!</a>
+
 
 So whether you have aspirations of being a millionaire, philosophy guru, there's a book for every lives problem. You just have to pick up one and start making reading a habit.
 
