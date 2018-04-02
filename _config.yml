@@ -1,0 +1,19 @@
+# Site settings
+name:           Nazo
+title:          Nazo Theme
+description:    "Coming Soon Jekyll theme for developers"
+baseurl:        ""
+url:            ""
+
+# Author
+author:
+  name:         Tay Samuelson
+  email:        tay.samuelson@aol.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     assets/css
+  style:        compressed
