@@ -1,9 +1,0 @@
-/* fontisto icon list*/
-
-@each $icon-name, $icon-unicode in $icon-list{
-    .#{$fi-css-prefix}-#{$icon-name} {
-        &:before{
-            content: unicode($icon-unicode);
-        }
-    } 
-}

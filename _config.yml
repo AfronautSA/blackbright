@@ -1,19 +1,22 @@
-# Site settings
-name:           Blackbright
-title:          Nazo Theme
-description:    "Coming Soon Jekyll theme for developers"
-baseurl:        ""
-url:            ""
-
-# Author
-author:
-  name:         Tay Samuelson
-  email:        tay.samuelson@aol.com
-
+name: Zwipi
+title: A Coming soon Jekyll Template
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+email: samuelson@blackbright.co.za
+description: A coming soon Jekyll template | blackbright
+baseurl: ""
+url: ""
+author: Afronaut
+googlebots:
+robots:
+google_analytics: 'UA-115564731-1'
 # Build settings
-markdown:       kramdown
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Assets
 sass:
-  sass_dir:     assets/css
-  style:        compressed
+  sass_dir: assets/css
+  style: compressed
