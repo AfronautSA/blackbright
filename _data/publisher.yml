@@ -1,0 +1,25 @@
+# Authors
+authors:
+  beam:
+    name: Blackbright Team
+    display_name: Beam
+    gravatar: beam.svg
+    email: blackbright365@gmail.com
+    web: http://www.blackbright.co.za
+    twitter: https://twitter.com/blackbright_
+    description: "A collective message from the blackbright team."
+  rea:
+    name: Reabetsoe Mokwa
+    display_name: Rea
+    gravatar: rea.svg
+    email: mokwareabetsoe300@gmail.com
+    web: http://www.blackbright.co.za
+    twitter: https://twitter.com/reabetsoe_
+    description: "A blackbright author."
+  tey:
+    name: Tey Samuelson
+    display_name: Tey
+    gravatar: tey.svg
+    email: tech.samuelson@gmail.com
+    web: http://www.blackbright.co.za
+    twitter: https://www.twitter.com/teythelion

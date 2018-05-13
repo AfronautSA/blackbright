@@ -1,22 +1,39 @@
+# Site
 name: Blackbright
-title: Blackbright Coming Soon
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-email: samuelson@blackbright.co.za
-description: Blackbright is coming to you soon. we love for you to connect with us.
-baseurl: ""
-url: ""
-author: Afronaut
+title: "An Unorthodox blog to get you inspired and achieving more | Blackbright"
+description: 'An Unorthodox blog to get you inspired and achieving more.'
+meta_description: "An Unorthodox blog to get you inspired and achieving more."
+
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/favicon.png'
+
+paginate: 15
+baseurl: /blackbright
+url: 'http://www.blackbright.co.za'
+google_analytics: 'UA-115564731-1'
+
+disqus: ''
+mailchimp-list: ''
+
 googlebots:
 robots:
-google_analytics: 'UA-115564731-1'
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
+author: Blackbright Media
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
-
-sass:
-  sass_dir: assets/css
-  style: compressed
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge

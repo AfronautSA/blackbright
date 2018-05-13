@@ -8,7 +8,7 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    eventmachine (1.2.5-x64-mingw32)
+    eventmachine (1.2.6-x64-mingw32)
     ffi (1.9.23-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -27,8 +27,11 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.4.0)
@@ -61,7 +64,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2018.4)
+    tzinfo-data (1.2018.5)
       tzinfo (>= 1.0.0)
     wdm (0.1.1)
 
@@ -70,7 +73,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.7.3)
+  jekyll-archives
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
