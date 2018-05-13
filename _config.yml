@@ -8,7 +8,7 @@ logo: 'assets/images/logo.svg'
 favicon: 'assets/images/favicon.png'
 
 paginate: 15
-baseurl: /blackbright
+baseurl: ""
 url: 'http://www.blackbright.co.za'
 google_analytics: 'UA-115564731-1'
 
