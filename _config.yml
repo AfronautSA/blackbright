@@ -12,8 +12,8 @@ baseurl: ""
 url: 'http://www.blackbright.co.za'
 google_analytics: 'UA-115564731-1'
 
-disqus: ''
-mailchimp-list: ''
+disqus: 'blackbright-1'
+mailchimp-list: 'https://blackbright.us18.list-manage.com/subscribe/post?u=cc0d4609e1f805dd816c0a155&amp;id=da81439638'
 
 googlebots:
 robots:
