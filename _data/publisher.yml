@@ -8,6 +8,7 @@ authors:
     web: http://www.blackbright.co.za
     twitter: https://twitter.com/blackbright_
     description: "A collective message from the blackbright team."
+
   rea:
     name: Reabetsoe Mokwa
     display_name: Rea
@@ -16,6 +17,7 @@ authors:
     web: http://www.blackbright.co.za
     twitter: https://twitter.com/_reabetsoe
     description: "A blackbright author."
+
   tey:
     name: Tey Samuelson
     display_name: Tey
@@ -23,3 +25,4 @@ authors:
     email: tech.samuelson@gmail.com
     web: http://www.blackbright.co.za
     twitter: https://www.twitter.com/teythelion
+    description: "A blackbright author."
