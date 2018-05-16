@@ -1,8 +1,8 @@
-<head> 
+<head>
   <title>{{ page.title }} | {{site.name}}</title>
   {% if page.description %}
   <meta name="description" content="{{ page.description }}">{% endif %}
-  
+
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta http-equiv="default-style" content="default stylesheet title" />
@@ -14,13 +14,13 @@
   <meta name="HandheldFriendly" content="True">
 
   <meta name="application-name" content="{{site.name}}" />
-  <meta name="google" content="nositelinkssearchbox" />	
+  <meta name="google" content="nositelinkssearchbox" />
   <meta name="robots" content="{{site.robots}}" />
-  <meta name="googlebot" content="{{site.googlebot}}" />	
+  <meta name="googlebot" content="{{site.googlebot}}" />
   <meta name="verify" content=""/>
-  
+
   {% seo %}
-  
+
   <meta property="twitter:url" content="{{site.url}}">
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{{site.title}}" />
@@ -34,13 +34,7 @@
   <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-2393290236351363",
-      enable_page_level_ads: true
-     });
-  </script>
+
 
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -49,15 +43,6 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-KW5833H');</script>
   <!-- End Google Tag Manager -->
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115564731-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-115564731-1');
-  </script>
-
+  {% include gta.html %}
+  {% include googleads.html %}
 </head>
