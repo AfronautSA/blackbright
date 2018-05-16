@@ -19,9 +19,19 @@ spend time socializing with my friends on Mxit and Facebook. Back then social me
 Today social media is the place to be. Platforms like Instagram
 have allowed models, musicians, fitness fanatics and even graphic designers to break out. Social media isn’t a phase anymore, it’s an era. It has made it much easier for those aspiring to be somebody to make it.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2393290236351363"
+     data-ad-slot="8586166371"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Before I move any further don’t think for a second that posting a picture on Facebook will make you an overnight success. It takes planning and strategizing. Watching meme videos and
-envying people with beautiful bodies and cars isn’t the same thing. 
+envying people with beautiful bodies and cars isn’t the same thing.
 
 
 With that being said, understand that media is changing, we
@@ -30,11 +40,11 @@ no longer watch television as much as we used to. Your attention is moving towar
 
 If you an aspiring, entrepreneur, musician, blogger, model,
 look I could on and on but anyone who wants to be anything in the world could benefit from social media. Think it’s expensive? Billboards cost thousands of dollars.
-Yes, they effective and reach thousands of people. However the same effect can be had with a Facebook post that could reach up to fifty thousand people with just five dollars. 
+Yes, they effective and reach thousands of people. However the same effect can be had with a Facebook post that could reach up to fifty thousand people with just five dollars.
 
 
 It’s not just aspiring individuals capitalizing on the opportunity.
-Large corporations like Nike, Adidas, Woolworths and BMW take advantage of how grossly undervalued social media is being taken. 
+Large corporations like Nike, Adidas, Woolworths and BMW take advantage of how grossly undervalued social media is being taken.
 
 
 If you taking advantage of this current opportunity you** WILL**
