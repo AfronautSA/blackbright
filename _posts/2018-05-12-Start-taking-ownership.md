@@ -24,8 +24,18 @@ is a dead end, and that your chances of recognition are near impossible, and eve
 When we critically analysed their days we came to realise
 they doing enough stupid shit to jeopardise their dreams. They sleep late and wake up even later, they smoke hookah and drink on weekends and most times miss training sessions with the team.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2393290236351363"
+     data-ad-slot="8586166371"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
- Their response to this was that even if they did put in the work it wouldn’t matter because scouts don’t notice them. They always over looked and never get the fair opportunities other players get at trials. 
+ Their response to this was that even if they did put in the work it wouldn’t matter because scouts don’t notice them. They always over looked and never get the fair opportunities other players get at trials.
 
 
 How will scouts notice you when you aren’t worth noticing?
@@ -37,6 +47,6 @@ I could go on and on about the struggles successful people
 faced but none of that matters. What does matter is that they persevered, they believed in themselves and most of all they put in the work. *Now why the hell aren't you doing the same?*
 
 I hope from this you understand that what you put in you get out.
-Most importantly remember, sacrifice comes before success even in the dictionary. 
+Most importantly remember, sacrifice comes before success even in the dictionary.
 
 Till next time
