@@ -9,8 +9,6 @@ image: assets/images/publications/2018-May/Article-2.jpg
 featured: true
 ---
 
-# Start taking ownership
-
 > People aren’t starting. They’re not making, they’re thinking, they’re pondering, they’re strategizing, they’re debating. – Gary
 Vaynerchuk
 
@@ -18,16 +16,7 @@ I had a conversation with a few of my childhood friends and something about that
 
 They emphasized on the fact that South African soccer is at its peril. The chances of recognition as a great player , in the international stage or level, are near impossible. That would be hundred percent true… _if you believe it and had one way of viewing things._
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2393290236351363"
-     data-ad-slot="8586166371"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include adscript.html %}
 
 If we critically analyzed how our youth soccer players, predominately kasi talent, go about their day, we do came to realize they're doing stupid shit to jeopardize their dreams.
 
@@ -40,6 +29,8 @@ If we critically analyzed how our youth soccer players, predominately kasi talen
 How will scouts notice you when you aren’t worth noticing? How will people believe in you when you don’t believe in yourself? How will you achieve greatness when you not putting in great deal of effort?
 
 We as a society want to be the best, we want the fame and fortune but fail to put in the necessary work effort. Even when we do put in the work we want instant gratification. **Guess what? It’s never that easy.** Sylvester Stallone struggled to make ends meet as an actor, even resorted to porn films to scrap by. Only at the age of 30 was he casted as Rocky.
+
+![Sacrifice for success]({{site.baseurl}}/assets/images/publications/2018-May/article-one-banner.jpg)
 
 I could go on and on about the struggles successful people faced, but none of that matters. What does matter is that they persevered, they believed in themselves and most of all they put in the work. *Now why the hell aren't you doing the same?*
 
