@@ -17,7 +17,7 @@ We form part of the youth of South Africa and have seen the challenges that come
 
 ### Another Motivational Blog
 
-We believe you have read almost every motivational blog out there before coming to this one. So what makes ups different? The fact is that we not a motivation blog. We believe as humans we go through a fair share of beautiful moments, testing moments and sad ones. But what really gets us going is the willpower and even when motivation is not there we know we have to give a consistent effort to get through any task.
+We believe you have read almost every motivational blog out there before coming to this one. So what makes us different? The fact is that we not a motivation blog. We believe as humans we go through a fair share of beautiful moments, testing moments and sad ones. But what really gets us going is the willpower and even when motivation is not there we know we have to give a consistent effort to get through any task.
 
 See we not building motivation. But we for build that drive to win matter what.
 
@@ -35,3 +35,4 @@ We going through the same pain you will get articles about how to overcome some 
 * All the bloggers at Blackbright are newbie authors and our free ebooks are available for download.
 * Self confidence is key. Be "Unf*ckwithable".
 * Our articles are personal. We write from experience.
+
