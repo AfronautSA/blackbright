@@ -6,7 +6,6 @@ googlebots: ["Blackbright blog","Unorthodox blog", "Motivational, Educative blog
 robots: ["Blackbright blog","Unorthodox blog", "Motivational, Educative blog", "South Africa"]
 categories: ['advice']
 image: assets/images/publications/2018-June/post-1.jpg
-featured: true
 ---
 
 > Black people we have so much unlearning to do - Boitumelo
