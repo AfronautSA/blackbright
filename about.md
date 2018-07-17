@@ -3,6 +3,11 @@ layout: page
 title: About Blackbright
 comments: false
 ---
+
+<p>
+  <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=amzn_cr_kindleoa_0618&banner=1R1JB1M6D9BZDEZSDZG2&f=ifr&lc=pf4&linkID=98c8085650d48b066241d768833d8d07&t=thekiso-20&tracking_id=thekiso-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</p>
+
 # 1. About Us
 
 1st January 2018, when most people were celebrating there New Years day, this was our day of reckoning and the birth of what we call Blackbright. Our aim is to bring a shift of mindset to the South African people (young and old).
