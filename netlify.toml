@@ -1,0 +1,3 @@
+[build]
+    publish = "_site"
+    command = "JEKYLL_ENV=production jekyll build"

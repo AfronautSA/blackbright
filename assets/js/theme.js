@@ -133,6 +133,20 @@ jQuery(document).ready(function($){
     
     
     $('.site-content').css('margin-top', $('header').outerHeight() + 'px');
+    
+    
+    
+    // to top
+    $("a.sscroll[href='#totop']").click(function() {
+      $("html, body").animate({ scrollTop: 0 }, "slow");
+      return false;
+    });
+
+    // just jump
+    var jumptopageof = $('#jumptopageof');  
+    if (jumptopageof.length) {
+        $('body,html').animate({ scrollTop: $(jumptopageof).offset().top  - 0 }, 800);
+    }
 
 
 

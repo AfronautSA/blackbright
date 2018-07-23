@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-
-<section>
+<div class="row">
+<div class="col-sm-8">
+<section class="">
     <div class="section-title">
         <h2><span>{{ page.title }}</span></h2>
     </div>
@@ -23,3 +23,10 @@ layout: default
     {% endif %}
     
 </section>
+</div>
+    
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+    
+</div>

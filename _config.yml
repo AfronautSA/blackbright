@@ -1,23 +1,28 @@
 # Site
-name: Blackbright
-title: "An Unorthodox blog to get you inspired and achieving more | Blackbright"
-description: 'An Unorthodox blog to get you inspired and achieving more.'
-meta_description: "An Unorthodox blog to get you inspired and achieving more."
-
-logo: 'assets/images/logo.svg'
+name: Blackbright.co.za
+description: A lifestyle motivational blog. We inspired you to live out your ideas.
+meta_description: "A lifestyle motivational blog. We inspired you to live out your ideas."
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
-
-paginate: 15
-baseurl: ""
-url: 'http://www.blackbright.co.za'
+paginate: 12
+baseurl: 
+email: 'samuelson@blackbright.co.za'
 google_analytics: 'UA-115564731-1'
-
 disqus: 'blackbright-1'
-mailchimp-list: 'https://blackbright.us18.list-manage.com/subscribe/post?u=cc0d4609e1f805dd816c0a155&amp;id=da81439638'
 
-googlebots:
-robots:
-author: Blackbright Media
+sharethis: '<script src="//platform-api.sharethis.com/js/sharethis.js#property=5b4c574877b6460012241340&product=sticky-share-buttons"></script>'
+googleads: '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-2393290236351363",enable_page_level_ads: true});</script>'
+
+# Authors
+authors:
+  sam:
+    name: Thekiso Samuel
+    display_name: Sam
+    gravatar: sam.png
+    email: tay.samuelson@aol.com
+    web: www.instagram.com/teythelion
+    twitter: https://twitter.com/teythelion
+    description: ""
 
 # Plugins
 plugins: 
@@ -25,6 +30,7 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-netlify
     
 # Archives
 jekyll-archives:
