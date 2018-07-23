@@ -10,7 +10,7 @@ Yeah you might have a point if you thought this article is conflict of interest.
 
 > Life is not fair, get used to it ~ Bill Gates
 
-But like any other entrepreneur, he's had his own fair share of struggles: dyslexia, being an unemployed graduate and dropping out of varsity (the second time around). But like any other story of relentless human, he defied the odds against him and the next list of quotes summarize the state of mint he's in. He had to change his views on the world and by all mean try to empower others to do the same.
+But like any other entrepreneur, he's had his own fair share of struggles: dyslexia, being an unemployed graduate and dropping out of varsity (the second time around). But like any other story of relentless human, he defied the odds against him and the next list of quotes summarize the state of mind he's in. He had to change his views on the world and by all mean try to empower others to do the same.
 
 1. "Mirrors don't lie. Frankly mirrors reflect our thoughts. Either you love what you see or conclude you need to change."
 2. "Success, well my little success didn't come by just change. But rather by the chances I have taken."
